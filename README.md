@@ -30,8 +30,8 @@
   </head>
 
   <body>
-    <h1>Welcome to My Website</h1>
-    <p>This is my first website built in VS Code 🎉</p>
+    <h1>Welcome to philile's haven</h1>
+    <p>This is my first website built with love🎉</p>
 
     <button onclick="showMessage()">Click Me</button>
 
